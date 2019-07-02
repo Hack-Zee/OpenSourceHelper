@@ -19,11 +19,6 @@ A list of websites and articles that will get you ready for world of OpenSource.
 -   [Open Source Your Android Code — The Complete Guide](https://android.jlelse.eu/open-source-your-android-code-a-complete-guide-bf0032e50f0e)
 -   [Push Your App to GitHub](https://guides.railsgirls.com/github)
 -   [How to Install Software from Source Code… and Remove it Afterwards](https://itsfoss.com/install-software-from-source-code/)
--   [Creating and Hosting a Personal Site on GitHub]()
-
--   []()
--   []()
--   []()
 
 ## List of noob friendly organizations 
 
